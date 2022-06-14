@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    color: white;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.painel{
+   text-align: center;
+}
+
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 30px;
+}
